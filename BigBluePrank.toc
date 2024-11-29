@@ -1,0 +1,7 @@
+
+## Interface: 30400
+## Title: BigBluePrank
+## Notes: Prank Blue with automatic whispers, whenever he level's up
+## Author: Skaterdad
+## Version: 1.0
+BigBluePrank.lua
