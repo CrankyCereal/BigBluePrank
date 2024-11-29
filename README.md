@@ -1,10 +1,21 @@
 
 # BigBluePrank Addon
 
+By:
+
+--  $$$$$$\   $$\   $$\   $$$$$$\   $$$$$$$$\  $$$$$$$$\  $$$$$$$\
+-- $$  __$$\  $$ |  $$ | $$  __$$\  \__$$  __| $$  _____| $$  __$$\
+-- $$ /  \__| $$ | $$  | $$ /  $$ |    $$ |    $$ |       $$ |  $$ |
+-- \$$$$$$\   $$$$$  /   $$$$$$$$ |    $$ |    $$$$$\     $$$$$$$  |
+--  \____$$\  $$  $$ <   $$  __$$ |    $$ |    $$  __|    $$  __$$< 
+-- $$\   $$ | $$ |\$$ \  $$ |  $$ |    $$ |    $$ |       $$ |  $$ |
+-- \$$$$$$  | $$ | \$$ \ $$ |  $$ |    $$ |    $$$$$$$$\  $$ |  $$ |
+--  \______/  \__|  \__| \__|  \__|    \__|    \________| \__|  \__|
+
 ## Overview
 BigBluePrank is an addon made by Skaterdad, for pranking BigBlueBoy:
 - Track the level of Blue.
-- Automatically whisper him a random roasting whisper when they level up.
+- Automatically whisper and roasting him, when he level's up.
 
 ### Key Features
 - Hidden communication via WoW’s addon message channels.
@@ -19,13 +30,6 @@ BigBluePrank is an addon made by Skaterdad, for pranking BigBlueBoy:
    - Windows: `World of Warcraft\_classic_\Interface\AddOns\`
    - macOS: `World of Warcraft/_classic_/Interface/AddOns/`
 3. Restart the game or reload your UI (`/reload`).
-
----
-
-## Usage
-1. All participants must install the addon.
-2. The tracked player’s name is set in the `BigBluePrank.lua` file under `playerNameToTrack`.
-3. Optional: Customize the messages in the `messages` array.
 
 ---
 
